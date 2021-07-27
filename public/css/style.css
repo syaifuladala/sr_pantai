@@ -1,0 +1,120 @@
+body{
+    background-color: #FFFBF5;
+  }
+  /* INDEX */
+  .card {
+    color: #05647E;
+    height: auto;
+    border: 0;
+  }
+  .card img{
+    height: 400px;
+    width: auto;
+  }
+  .heading {
+    margin-top: 150px;
+    padding-bottom: 50px;
+    text-align: center;
+  }
+  .heading-nav {
+    margin-top: 50px;
+  }
+  .button-nav {
+    position: relative;
+    bottom: -60px;
+  }
+  .button-nav button {
+    font-weight: bolder;
+    width: 200px;
+    height: 80px;
+    color: #05647E;
+    background-color: #D1F5FF;
+    border: 2px solid #D1F5FF;
+    border-radius: 12px;
+    box-shadow: 5px 10px rgba(0, 0, 0, 0.164);
+  }
+  .button-nav button:hover {
+    border: 2px solid #EDFBFF;
+    background-color: #EDFBFF;
+  }
+  .button-nav img{
+    width: 50px;
+    height: auto;
+    margin-right: 5px;
+  }
+  .container {
+    padding-top: 100px;
+    padding-bottom: 50px;
+  }
+  .list-pantai a {
+    color: inherit; /* blue colors for links too */
+    text-decoration: inherit; /* no underline */
+  }
+  .list-pantai img {
+    height: 150px;
+    width: auto;
+    border-radius: 14px;
+    margin-left: 20px;
+  }
+  .myTable{
+    background-color: white;
+  }
+  .flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+  }
+  .kriteria-bar{
+    width: 80%;
+  }
+  .w3-light-grey{
+    width: 550px;
+    margin-bottom: -5px;
+  }
+  .w3-light-grey span{
+    float:right;
+  }
+  .detail-button{
+    width: 20%;
+  }
+  /* DETAIL */
+  .table button {
+    width: 100%;
+  }
+  .header-detail-tabel{
+    color: #05647E;
+    background-color: #D1F5FF;
+  }
+  .header-detail-tabel h5{
+    padding-left: 30px;
+  }
+  /* REKOMENDASI */
+  .accordion {
+    margin-bottom: 20px;
+    background-color: #D1F5FF;
+    color: #05647E;
+  }
+  .card-header {
+    background-color: #D1F5FF;
+    color: #05647E;
+  }
+  .card-body {
+    background-color: #D1F5FF;
+    color: #05647E;
+  }
+  .input-domain input {
+    width: 50px;
+  }
+  .button-rekomendasi{
+    margin-top: 30px;
+  }
+  .img-petunjuk1 img{
+    width: 800px;
+    height: auto;
+    align-content: center;
+  }
+  .img-petunjuk2 img{
+    width: 600px;
+    height: auto;
+    align-content: center;
+  }
